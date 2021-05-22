@@ -8,7 +8,7 @@ $width=9;
 $area=$heigth*$width;
 
 echo "My Name is $name and My Email is $email" ;
-echo "<br>";
+echo "<br />";
 echo $area;
 
 ?>
