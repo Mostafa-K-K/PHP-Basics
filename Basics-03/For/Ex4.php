@@ -7,7 +7,7 @@ for ($i = 1; $i <= $x; $i++) {
         if (($i == $j) || ($i == 1) || ($i == $x)) {
             echo "*";
         } else {
-            echo " ";
+            echo "&nbsp;&nbsp;";
         }
     }
     echo "<br />";
